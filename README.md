@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louisriverstone&show_icons=true&theme=dark&locale=en&layout=compact" alt="louisriverstone" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louisriverstone&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="louisriverstone" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=louisriverstone&theme=dark" alt="louisriverstone" /></p>
