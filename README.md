@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 📎 the biggests projects I've worked: [Envia Mais](http://enviamais.com.br/) [Comunix Chatbot Builder](http://comunix.net.br/) 
+- 📎 the biggests projects I've worked: [Envia Mais](http://enviamais.com.br/) and [Comunix Chatbot Builder](http://comunix.net.br/) 
 
 - 💬 Ask me about **javascript and typescript in general**
 
