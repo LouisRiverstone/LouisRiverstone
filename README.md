@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [XPBOX Company](http://xpbox.com.br/)
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Go Lang**
 
 - 📎 the biggest project I've worked on [Envia Mais](http://enviamais.com.br/)
 
