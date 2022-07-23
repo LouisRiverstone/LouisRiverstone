@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 📎 the biggest project I've worked on [Envia Mais](http://enviamais.com.br/)
+- 📎 the biggests projects I've worked: [Envia Mais](http://enviamais.com.br/) [Comunix Chatbot Builder](http://comunix.net.br/) 
 
-- 💬 Ask me about **javascript in general**
+- 💬 Ask me about **javascript and typescript in general**
 
 - 📫 How to reach me **luizgustavobenicio@gmail.com**
 
-- ⚡ Fun fact **I'm fan of Bill Burr**
+- ⚡ Fun fact **I'm fan of Bill Burr and Anthony Jesselnik**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
