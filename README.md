@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luiz Gustavo</h1>
-<h3 align="center">Fullstack Dev focused in JS/PHP applications using Vue, NuxtJS, React, Laravel and AdonisJS. love for learning new technologies and solve problems!</h3>
+<h3 align="center"><b>TECH LEAD</b> and <b>DEVELOPER</b> focused in <b>JS/PHP</b> applications using Vue, NuxtJS, React, Laravel, Open Swoole, Hyperf and Adonis 5. love for learning new technologies and solve problems!</h3>
 
 - 🔭 I’m currently working on [XPBOX Company](http://xpbox.com.br/)
 
