@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Luiz Gustavo</h1>
-<h3 align="center"><b>TECH LEAD</b> and <b>DEVELOPER</b> focused in <b>JS/PHP</b> applications using Vue, NuxtJS, React, Laravel, Open Swoole, Hyperf and Adonis 5. love for learning new technologies and solve problems!</h3>
+<h3 align="center">I was once a <b>Tech Lead</b> on a company, but today I am completely focused on <b>development</b> in <b>TS/PHP</b> applications using Vue 3, NuxtJS, Laravel, Swoole, Hyperf and Adonis v6. love for learning new technologies and solve problems!</h3>
 
 - 🔭 I’m currently working on [Feedz](https://www.feedz.com.br/)
 
-- 🌱 I’m currently learning **InertiaJS and Adonis v6**
+- 🌱 I’m currently learning **InertiaJS**
 
 - 📎 the biggests projects I've worked: [Feedz](https://www.feedz.com.br/), [Envia Mais](http://enviamais.com.br/) and [Comunix Chatbot Builder](https://www.comunix.net.br/) 
 
