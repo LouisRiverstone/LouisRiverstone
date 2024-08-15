@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **luizgustavobenicio@gmail.com**
 
-- ⚡ Fun fact **I'm fan of Bill Burr and Anthony Jesselnik**
+- ⚡ Fun fact **I'm bedroom guitar player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
