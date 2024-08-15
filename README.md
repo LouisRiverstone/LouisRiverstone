@@ -56,8 +56,8 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louisriverstone&show_icons=true&theme=dark&locale=en&layout=compact" alt="louisriverstone" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louisriverstone&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="louisriverstone" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=louisriverstone&theme=dark" alt="louisriverstone" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LouisRiverstone&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouisRiverstone&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LouisRiverstone&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
