@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luiz Gustavo</h1>
-<h3 align="center">I was once a <b>Tech Lead</b> on a company, but today I am completely focused on <b>development</b> in <b>TS/PHP</b> applications using Vue 3, NuxtJS, Laravel, Swoole, Hyperf and Adonis v6. love for learning new technologies and solve problems!</h3>
+<h3 align="center">I am a dedicated web developer with extensive experience in leading and creating innovative technological solutions. My career spans several sectors, always with the aim of delivering value and technical excellence.</h3>
 
 - 🔭 I’m currently working on [Feedz](https://www.feedz.com.br/)
 
