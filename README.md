@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Feedz](https://www.feedz.com.br/)
 
-- 🌱 I’m currently learning **InertiaJS**
+- 🌱 I’m currently learning **Golang**
 
 - 📎 the biggests projects I've worked: [Feedz](https://www.feedz.com.br/), [Envia Mais](http://enviamais.com.br/) and [Comunix Chatbot Builder](https://www.comunix.net.br/) 
 
