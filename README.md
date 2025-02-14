@@ -63,3 +63,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouisRiverstone&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=LouisRiverstone&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/louisriverstone">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=louisriverstone&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
