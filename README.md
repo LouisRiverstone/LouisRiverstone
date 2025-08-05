@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Totvs](https://www.totvs.com/sistema-de-gestao/?utm_campaign=totvs-conv-aon-meio-nativa-performance-max-erp&utm_source=google-performance-max&utm_medium=cpc&utm_term=erp-novo&utm_term=&utm_campaign=TOTVS_CONV_AON_MEIO_NATIVA_PERFORMANCE-MAX-ERP&utm_source=adwords&utm_medium=ppc&hsa_acc=5745705588&hsa_cam=19730015998&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAnpy9BhAkEiwA-P8N4lvaldhPkKBPcPLk69R3EaAlQq3qz73ThKnRwYo1agtpTC5r1g9ZexoCKx0QAvD_BwE)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 
 - 📎 the biggests projects I've worked: [Feedz](https://www.feedz.com.br/), [Envia Mais](http://enviamais.com.br/) and [Comunix Chatbot Builder](https://www.comunix.net.br/) 
 
