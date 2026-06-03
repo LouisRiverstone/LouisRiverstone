@@ -109,17 +109,6 @@ My expertise is in **JavaScript and TypeScript** ecosystems, both on the fronten
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LouisRiverstone&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide_title=true"
-    height="155"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=LouisRiverstone&layout=compact&langs_count=6&theme=github_dark&hide_border=true&hide_title=true"
-    height="155"
-  />
-</div>
-
-<div align="center">
-  <img
     src="https://streak-stats.demolab.com?user=LouisRiverstone&theme=github-dark-blue&hide_border=true&border_radius=4&mode=daily"
     height="150"
   />
